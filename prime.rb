@@ -3,7 +3,7 @@ def prime?(x)
   if x >= 2 
     
     return true
-  else x<2 
+  else x<=1 
     return false
   end
 end
