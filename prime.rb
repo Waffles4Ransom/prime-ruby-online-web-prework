@@ -4,7 +4,7 @@ def prime?(x)
     
     return true
   elsif x <= 3 
-  
+    return true
   else x<=1 
     return false
   end
